@@ -1,0 +1,68 @@
+body 
+{
+  margin: auto;
+  background-color: #fff;
+}
+
+.cname h1
+{
+  text-align:left;
+  font-size: medium;
+  color:#f47b11;
+  font-size: 1.3rem;
+  margin-top:24px;
+}
+
+.nav
+{
+  text-align: center;
+  padding-top: 9px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom:13px !important;
+  list-style: none;
+}
+
+div.relative 
+{
+  position: relative;
+  width: 400px;
+  height: 200px;
+} 
+
+div.absolute {
+  position: absolute;
+  top:85px;
+  background-color: rgb(249, 136, 7);
+  left: 60px;
+  width: 350px;
+  height: 308px;
+  border-radius:50px;
+}
+
+
+
+.feature-icon {
+  margin-left: 105px;
+  font-size: 20px;
+}
+
+
+.nav-tabs {
+  border-bottom: none !important;
+}
+
+.nav-link 
+{
+  display: block;
+  padding: 0.5rem 1rem;
+  color: #080809 !important;
+}
+
+
+
+
+
+
+  
